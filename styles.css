@@ -1,0 +1,10 @@
+.Imgholder1 {
+    background-image: url(./pictures/OcgImage.png);
+    width: auto;
+    height: 570px;
+    background-size: cover;
+}
+
+.EmailForm{
+    text-align: center;
+}
